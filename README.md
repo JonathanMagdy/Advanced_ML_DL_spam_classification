@@ -129,12 +129,6 @@ Example output:
 
 ## Author
 
-[Sergii Kavun](https://www.linkedin.com/in/sergii-kavun/)
+[JJ](https://www.linkedin.com/in/jonathan-magdy-170324280/))
 
-## License
 
-This lab is based on publicly available datasets and code. Please refer to the original sources for licensing details. The SMS Spam Collection dataset is available under open licenses for research purposes.
-
----
-
-For more details, refer to the notebook or the referenced papers on SMS spam filtering.
